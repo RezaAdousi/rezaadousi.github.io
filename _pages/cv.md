@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-To download my CV click [here](/files/CV.pdf).
+To download my CV click [here](/files/Reza_Adousi_CV.pdf).
 
 ## Research Interests
 
