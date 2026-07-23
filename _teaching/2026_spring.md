@@ -3,11 +3,12 @@ title: "Introduction to Computer Science and Programming"
 collection: teaching
 permalink: /teaching/introduction-to-computer-science-and-programming
 venue: "Khatam University"
+semester: "Spring 2026"
+instructor: "[Prof. Haniyeh Fallah](https://scholar.google.com/citations?user=za_J5PQAAAAJ&hl=en)"
 date: 2026-02-01
 location: "Tehran, Iran"
 type: "Teaching Assistant"
 ---
-**Semester:** Spring 2026
 
 **Instructor:** [Prof. Haniyeh Fallah](https://scholar.google.com/citations?user=za_J5PQAAAAJ&hl=en)
 

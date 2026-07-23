@@ -35,7 +35,10 @@ layout: default
         {% endif %}
         
         {% if page.collection == 'teaching' %}
-          <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+          <p><i>{{ page.venue }}</i> — {{ page.semester }}</p>
+          {% if page.instructor %}
+            <p>Instructor: {{ page.instructor }}</p>
+          {% endif %}
         {% elsif page.collection == 'publications' %}
           {% if page.venue %}
             <p><i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }}</p>
