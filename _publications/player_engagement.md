@@ -3,8 +3,9 @@ title: "Adaptive Player Engagement Optimization Using FSRCE Framework"
 collection: publications
 permalink: /publication/player-engagement
 date: 2026-01-01
+category: manuscripts
 venue: "In Preparation"
-paperurl: 
+paperurl:
 citation: "R. Adousi, H. Khorram, S. Kamkar. Adaptive Player Engagement Optimization Using FSRCE Framework."
 ---
 
