@@ -10,8 +10,6 @@ location: "Tehran, Iran"
 type: "Teaching Assistant"
 ---
 
-**Instructor:** [Prof. Haniyeh Fallah](https://scholar.google.com/citations?user=za_J5PQAAAAJ&hl=en)
-
 Worked as a Teaching Assistant for the undergraduate *Introduction to Computer Science and Programming* course at Khatam University.
 
 Responsibilities included:
