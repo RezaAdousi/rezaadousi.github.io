@@ -23,7 +23,7 @@ repository               : "rezaadousi/rezaadousi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "photo.jpg"
   name             : "Reza Adousi"
   pronouns         : "he/him"
   bio              : "Short biography for the left-hand sidebar"
