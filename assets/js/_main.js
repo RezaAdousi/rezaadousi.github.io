@@ -157,9 +157,8 @@ $(document).ready(function () {
 
   // Enable the sticky footer
   var bumpIt = function () {
-    // no-op for modern flex-based sticky footer; clear any JS-added bottom spacing
     $("body").css("padding-bottom", "0");
-    $("body").css("margin-bottom", "0");
+    $("body").css("margin-bottom", $(".page__footer").outerHeight(true));
   }
   $(window).resize(function () {
     didResize = true;
