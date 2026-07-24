@@ -10,14 +10,12 @@ redirect_from:
 
 <div class="home-intro">
 
-<h1>Reza Adousi</h1>
-
 <h3>
 Computer Engineering Student | Machine Learning & Multimodal AI Researcher
 </h3>
 
 <p>
-Hello! I'm Reza Adousi, a Computer Engineering undergraduate student at 
+I'm a Computer Engineering undergraduate student at 
 <a href="https://khatam.ac.ir/" target="_blank">Khatam University</a>, Tehran, Iran.
 </p>
 
